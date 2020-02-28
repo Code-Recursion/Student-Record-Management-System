@@ -8,3 +8,4 @@ A minimalist desktop app  to managae students record. **record are saved directl
 >Admin have full access to manipulate the data.
 
 >Student account can only view the data.
+using File handling in c++.
