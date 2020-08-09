@@ -58,6 +58,11 @@ void passwordVerification()
 int main()
 {
 
+    // fast io
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+    cout.tie(NULL);
+
     //loadingBar(); // loadingBar() is in the loading.h header for loading animation.
     system("color 9F");
 
