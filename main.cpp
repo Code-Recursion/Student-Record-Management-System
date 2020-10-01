@@ -20,7 +20,7 @@ void passwordVerification()
     string password;
 
     cout << "\n\n\n\n\n\t\t\t\t\t";
-    cout << "\n\n\n\t\t\t\t\tEnter Password : ";
+    cout << "\n\n\n\t\t\t\t\tEnter Your Password : ";
 
     do
     {
@@ -30,8 +30,8 @@ void passwordVerification()
         {
             system("cls");
             cout << "\n\n\n\n\n\t\t"
-                 << "wrong password!, try again or type 'quit' / 'exit' to Quit The program.";
-            cout << "\n\n\n\t\t\t\t\tEnter Password : ";
+                 << "Oops! Wrong password, try again or type 'quit' / 'exit' to quit the Program.";
+            cout << "\n\n\n\t\t\t\t\tEnter Your Password: ";
         }
 
         if (password == "Quit" || password == "quit" || password == "exit" || password == "Exit" || password == "QUIT" || password == "EXIT")
