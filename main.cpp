@@ -1,8 +1,6 @@
 #include <iostream>
 #include "loading.h"
 #include <string>
-#include <vector>
-#include <algorithm>
 #include <Windows.h>
 #include "adminFunction.h"
 
