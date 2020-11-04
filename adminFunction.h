@@ -1,12 +1,7 @@
-#include <iostream>
 #include <fstream>
 #include <string.h>
 #include <bits/stdc++.h>
 #include <string>
-#include <stdio.h>
-//#include <strstream>
-#include <vector>
-#include <algorithm>
 #include <Windows.h>
 #include <stdlib.h>
 
